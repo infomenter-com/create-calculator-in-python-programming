@@ -1,6 +1,6 @@
 
 
-#Visit infomenter.com for more Data Science Projects and guides
+#Visit https://infomenter.com/ for more Data Science Projects and guides
 
 # Define our function
 def calculate():
